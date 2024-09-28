@@ -1,0 +1,8 @@
+<svg id="Group_2472" data-name="Group 2472" xmlns="http://www.w3.org/2000/svg" width="30.483" height="30.483" viewBox="0 0 30.483 30.483">
+  <g id="Ellipse_25" data-name="Ellipse 25" transform="translate(0 0)" fill="none" stroke="#bdbdbd" stroke-width="2">
+    <ellipse cx="15.241" cy="15.241" rx="15.241" ry="15.241" stroke="none"/>
+    <ellipse cx="15.241" cy="15.241" rx="14.241" ry="14.241" fill="none"/>
+  </g>
+  <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="10.161" cy="10.161" rx="10.161" ry="10.161" transform="translate(5.08 5.08)" fill="#1C206B"/>
+  <path id="checkmark" d="M11.452,0,4.209,7.063,1.434,4.406,0,5.869,4.167,9.948h.018l8.722-8.515Z" transform="translate(9.56 10.608)" fill="#fff"/>
+</svg>
